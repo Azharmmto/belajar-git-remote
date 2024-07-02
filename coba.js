@@ -4,4 +4,6 @@ let tahunLahir = 2004;
 
 let umur = tahunSaatIni - tahunLahir;
 
-console.log("Umur anda adalah " + umur);
+console.log(`Program melihat umur`);
+
+console.log(`Umur anda adalah ${umur}`);
